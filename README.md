@@ -70,10 +70,8 @@ export default new Developer();
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,vite,nodejs,python,java,postgres,mongodb,sqlserver&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,vite,tailwind,nodejs,python,java,postgres,mongodb,sqlite,haskell&perline=8" />
 </p>
-
----
 
 ## 🎮 Skills
 
