@@ -7,9 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/88/e7/81/88e781f55d1889530fdeaff5523d171b.gif" width="800" />
+  <img src="https://i.pinimg.com/originals/2a/03/a3/2a03a3b911597e07dfc2ef2878ae1a11.gif" width="800" />
 </p>
-
 ---
 
 ## 🧠 system.core
