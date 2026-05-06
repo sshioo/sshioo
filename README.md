@@ -8,12 +8,17 @@
 
 # 🧠 sshio.exe
 
-```bash
-> booting developer profile...
-> location: Piura, Peru 🇵🇪
-> loading skills ██████████ 100%
-> status: ONLINE ✅
-```
+<div align="center">
+
+| | |
+|---|---|
+| **name** | sshio |
+| **role** | Frontend Developer |
+| **location** | Piura, Peru 🇵🇪 |
+| **focus** | UI/UX · Performance · Clean Code |
+| **status** | 🟢 ONLINE |
+
+</div>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN252ZDY4Mzh6cHk4OWw4NnY1NzVlNTNzcGc5MDRtMGFyMGh2dTV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="160"/>
@@ -56,14 +61,14 @@ export default new Developer();
 
 ## 🎮 Developer Progress · Progreso
 
-```txt
-🟨 JavaScript   ████████████████████  82%
-🟦 CSS / Design ███████████████████░  78%
-🟩 React / Next ██████████████████░░  75%
-🟥 Angular      ████████████████░░░░  65%
-🟦 SQL / DBs    ██████████████░░░░░░  55%
-🟪 Python       ████████████░░░░░░░░  45%
-```
+| Tech | Level | |
+|---|---|---|
+| JavaScript | `████████████████████` | 82% |
+| CSS / Design | `███████████████████░` | 78% |
+| React / Next.js | `██████████████████░░` | 75% |
+| Angular | `████████████████░░░░` | 65% |
+| SQL / Databases | `██████████████░░░░░░` | 55% |
+| Python | `████████████░░░░░░░░` | 45% |
 
 ---
 
@@ -138,8 +143,6 @@ while (alive) {
 <p align="center">
   <img src="https://raw.githubusercontent.com/sshioo/sshioo/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> **Tip:** Para activar la serpiente, crea un GitHub Action en `.github/workflows/snake.yml` — te lo explico si quieres.
 
 ---
 
