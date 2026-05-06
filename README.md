@@ -1,7 +1,7 @@
 <!-- TYPING HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=sshio.exe+initialized...;Frontend+Developer+%7C+UI+Craftsman;Construyendo+interfaces+que+enamoran...;Building+interfaces+that+feel+alive;Desde+Piura%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA+%E2%98%95" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=sshioo.exe+initialized...;Frontend+Developer+%7C+UI+Craftsman;Construyendo+interfaces+que+enamoran...;Building+interfaces+that+feel+alive;Desde+Piura%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA+%E2%98%95" />
 </p>
 
 ---
