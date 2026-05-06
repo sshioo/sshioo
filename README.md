@@ -10,24 +10,13 @@
 
 <div align="center">
 
-## 🧬 About Me
+## Now
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+  Building real projects.  
+  Improving UI/UX and performance.  
+  Writing cleaner code every day.
 </p>
-
-<p align="center">
-  Construyo interfaces web con React y Angular, buscando que sean rápidas, claras y fáciles de usar.
-</p>
-
-<p align="center">
-  Me gusta cuidar el diseño y los detalles, pero sin perder de vista el rendimiento y la simplicidad.
-</p>
-
-<p align="center">
-  Actualmente trabajando en proyectos donde sigo mejorando tanto el código como la experiencia del usuario.
-</p>
-
 ---
 
 <p align="center">
