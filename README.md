@@ -14,6 +14,25 @@
 
 ---
 
+## 🧠 system.core
+
+```bash
+> booting sshio.exe...
+> loading profile ██████████ 100%
+
+> user: sshioo
+> role: frontend developer
+> location: Peru 🇵🇪
+
+> education: Universidad Privada de Piura
+> cycle: 7th semester
+> mode: learning + building
+
+> focus: ui/ux · performance · clean code
+> stack: react · angular · next
+
+> status: ONLINE
+
 ## 🧬 About Me · Sobre Mí
 
 ```js
