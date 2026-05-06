@@ -33,16 +33,6 @@
 <p align="center">
   <img src="https://svgshare.com/i/uR_.svg" width="400"/>
 </p>
----
-
-💻 Me enfoco en construir experiencias web modernas usando  
-<span style="color:#61DAFB">React</span>, <span style="color:#DD0031">Angular</span> y tecnologías actuales.
-
-🎨 Me gusta cuidar cada detalle visual, combinando diseño limpio con rendimiento y buena arquitectura.
-
-🚀 Actualmente desarrollando proyectos reales donde el código, el diseño y la experiencia del usuario trabajan juntos.
-
----
 
 <p align="center">
   <b>✨ "No es solo código… es experiencia."</b>
