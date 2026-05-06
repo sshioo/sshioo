@@ -47,7 +47,7 @@
 ```js
 class Developer {
   constructor() {
-    this.name     = "sshio";
+    this.name     = "sshioo";
     this.role     = "Frontend Developer & UI Craftsman";
     this.location = "Piura, Peru 🇵🇪";
     this.stack    = ["React", "Angular", "Next.js", "Astro", "Vite"];
@@ -77,12 +77,12 @@ export default new Developer();
 
 ## 🎮 Skills
 
-JavaScript · 82%  
-CSS / Design · 78%  
-React / Next · 75%  
-Angular · 65%  
-SQL / DB · 55%  
-Python · 45%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript · 82%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS / Design · 78%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React / Next · 75%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="18"/> Angular · 65%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> SQL / DB · 55%  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python · 45%
 
 ## 🧠 Philosophy.log
 
