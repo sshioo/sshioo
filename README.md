@@ -8,27 +8,6 @@
 
 # 🧠 sshioo.exe
 
-<div align="center">
-
-## Now
-
-<p align="center">
-  Building real projects.  
-  Improving UI/UX and performance.  
-  Writing cleaner code every day.
-</p>
----
-
-<p align="center">
-  <img src="https://svgshare.com/i/uR_.svg" width="400"/>
-</p>
-
-<p align="center">
-  <b>✨ "No es solo código… es experiencia."</b>
-</p>
-
-</div>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN252ZDY4Mzh6cHk4OWw4NnY1NzVlNTNzcGc5MDRtMGFyMGh2dTV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="160"/>
 </p>
