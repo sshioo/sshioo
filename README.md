@@ -59,18 +59,14 @@ export default new Developer();
 
 ---
 
-## 🎮 Developer Progress · Progreso
+## 🎮 Skills
 
-| Tech | Level | |
-|---|---|---|
-| JavaScript | `████████████████████` | 82% |
-| CSS / Design | `███████████████████░` | 78% |
-| React / Next.js | `██████████████████░░` | 75% |
-| Angular | `████████████████░░░░` | 65% |
-| SQL / Databases | `██████████████░░░░░░` | 55% |
-| Python | `████████████░░░░░░░░` | 45% |
-
----
+JavaScript · 82%  
+CSS / Design · 78%  
+React / Next · 75%  
+Angular · 65%  
+SQL / DB · 55%  
+Python · 45%
 
 ## 🧠 Philosophy.log
 
@@ -80,7 +76,6 @@ while (alive) {
   build();
   ship();
   improve();
-  // repeat from Peru 🇵🇪 ☕
 }
 ```
 
