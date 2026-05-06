@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN252ZDY4Mzh6cHk4OWw4NnY1NzVlNTNzcGc5MDRtMGFyMGh2dTV6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/0f/c5/7c/0fc57c690ae25c8687562de40b673cd2.gif" width="100%"/>
 </p>
 
 ---
@@ -15,14 +15,14 @@
 ## 🧠 system.core
 
 ```bash
-> booting sshio.exe...
+> booting sshioo.exe...
 > loading profile ██████████ 100%
 
 > user: sshioo
 > role: frontend developer
 > location: Peru 🇵🇪
 
-> education: Universidad Privada de Piura
+> education: Universidad Privada del Peru - Piura
 > cycle: 7th semester
 > mode: learning + building
 
