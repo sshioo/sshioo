@@ -69,8 +69,24 @@ export default new Developer();
 
 ## ⚙️ Tech Arsenal
 
+### 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,vite,tailwind,nodejs,python,java,postgres,mongodb,sqlite,haskell&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,tailwind,sass&perline=10" />
+</p>
+
+### ⚙️ Backend & DB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase&perline=7" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,docker,linux,bash&perline=7" />
+</p>
+
+### 🧠 Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=haskell&perline=1" />
 </p>
 
 ## 🎮 Skills
