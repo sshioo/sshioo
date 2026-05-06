@@ -6,7 +6,7 @@
 
 ---
 
-# 🧠 sshio.exe
+# 🧠 sshioo.exe
 
 <div align="center">
 
