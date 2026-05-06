@@ -12,11 +12,27 @@
 
 ## 🧬 About Me
 
-Desarrollador Frontend apasionado por construir experiencias web que no solo funcionen bien, sino que se sientan bien.
+<p align="center">
+  <i>
+    Frontend Developer desde Perú 🇵🇪 <br/>
+    creando interfaces que no solo se ven bien… se sienten bien.
+  </i>
+</p>
 
-Trabajo con tecnologías modernas como React y Angular, cuidando la calidad del código, el rendimiento y el diseño.
+---
 
-Siempre buscando mejorar, crear y llevar cada proyecto al siguiente nivel.
+💻 Me enfoco en construir experiencias web modernas usando  
+<span style="color:#61DAFB">React</span>, <span style="color:#DD0031">Angular</span> y tecnologías actuales.
+
+🎨 Me gusta cuidar cada detalle visual, combinando diseño limpio con rendimiento y buena arquitectura.
+
+🚀 Actualmente desarrollando proyectos reales donde el código, el diseño y la experiencia del usuario trabajan juntos.
+
+---
+
+<p align="center">
+  <b>✨ "No es solo código… es experiencia."</b>
+</p>
 
 </div>
 
