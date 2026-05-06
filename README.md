@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/2a/03/a3/2a03a3b911597e07dfc2ef2878ae1a11.gif" width="800" />
 </p>
+
 ---
 
 ## 🧠 system.core
