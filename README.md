@@ -10,13 +10,13 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| **name** | sshio |
-| **role** | Frontend Developer |
-| **location** | Piura, Peru 🇵🇪 |
-| **focus** | UI/UX · Performance · Clean Code |
-| **status** | 🟢 ONLINE |
+## 🧬 About Me
+
+Desarrollador Frontend apasionado por construir experiencias web que no solo funcionen bien, sino que se sientan bien.
+
+Trabajo con tecnologías modernas como React y Angular, cuidando la calidad del código, el rendimiento y el diseño.
+
+Siempre buscando mejorar, crear y llevar cada proyecto al siguiente nivel.
 
 </div>
 
