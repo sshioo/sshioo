@@ -88,12 +88,16 @@ export default new Developer();
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-82%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/CSS%20%2F%20Design-78%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS and Design" />
   <img src="https://img.shields.io/badge/React%20%2F%20Next-75%25-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React and Next" />
   <img src="https://img.shields.io/badge/Angular-65%25-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/SQL%20%2F%20DB-55%25-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and databases" />
-  <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Prolog-Learning-E61B23?style=flat-square&logo=prolog&logoColor=white" alt="Prolog learning" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-60%25-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20DB-60%25-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and databases" />
+  <img src="https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Haskell-Learning-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Prolog-Learning-E61B23?style=flat-square" alt="Prolog" />
 </p>
 
 ---
