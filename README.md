@@ -81,7 +81,12 @@ export default new Developer();
 <p align="center">
   <img src="https://skillicons.dev/icons?i=haskell&perline=1" alt="Haskell" />
   <br />
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog" />
+  <img
+  src="https://proicons.com/icon/15049.svg"
+  width="48"
+  height="48"
+  alt="Prolog"
+/>
 </p>
 
 ## Skill Snapshot
@@ -97,12 +102,7 @@ export default new Developer();
   <img src="https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Haskell-Learning-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
-  <img
-  src="https://proicons.com/icon/15049.svg"
-  width="48"
-  height="48"
-  alt="Prolog"
-/>
+  
 </p>
 
 ---
