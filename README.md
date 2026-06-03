@@ -97,7 +97,7 @@ export default new Developer();
   <img src="https://img.shields.io/badge/Python-55%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Haskell-Learning-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
-  <img src="https://cdn.simpleicons.org/prolog/E61B23" width="20" alt="Prolog" />
+  <img src="https://img.shields.io/badge/Prolog-Learning-E61B23?style=flat-square&logo=swi-prolog&logoColor=white" />
 </p>
 
 ---
