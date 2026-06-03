@@ -62,13 +62,6 @@ export default new Developer();
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,haskell,bash,mysql&perline=7" />
-
-  <img
-    src="https://proicons.com/icon/15049.svg"
-    width="48"
-    height="48"
-    alt="Prolog"
-  />
 </p>
 
 ---
