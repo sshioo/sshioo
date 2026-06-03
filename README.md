@@ -58,35 +58,132 @@ export default new Developer();
 
 ## Tech Arsenal
 
-### Frontend
+## 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,tailwind,sass&perline=10" alt="Frontend skills" />
-</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,haskell,bash,mysql&perline=7" />
 
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase&perline=7" alt="Backend and database skills" />
-</p>
-
-### Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,docker,linux,bash&perline=7" alt="Tools and DevOps" />
-</p>
-
-### Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=haskell&perline=1" alt="Haskell" />
-  <br />
   <img
-  src="https://proicons.com/icon/15049.svg"
-  width="48"
-  height="48"
-  alt="Prolog"
-/>
+    src="https://proicons.com/icon/15049.svg"
+    width="48"
+    height="48"
+    alt="Prolog"
+  />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,angular,nextjs,astro,vite&perline=9" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,spring&perline=7" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=4" />
+</p>
+
+---
+
+## 🤖 AI & Computer Vision
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🌐 Networking & Cybersecurity
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/DNS-005073?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Firewall-005073?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/IDS%2FIPS-005073?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/ISO_27001-005073?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Network_Monitoring-005073?style=for-the-badge" />
+
+</p>
+
+---
+
+## ☁️ DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github&perline=5" />
+</p>
+
+---
+
+## 🖥️ Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=2" />
+</p>
+
+---
+
+## 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,vercel,postman,npm&perline=5" />
+</p>
+
+---
+
+## 📊 Data & Analytics
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/SPSS-00599C?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Data_Visualization-4CAF50?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=haskell,spring,docker&perline=3" />
+</p>
+
+<p align="center">
+  <img
+    src="https://proicons.com/icon/15049.svg"
+    width="48"
+    height="48"
+    alt="Prolog"
+  />
 </p>
 
 ## Skill Snapshot
