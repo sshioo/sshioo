@@ -1,164 +1,226 @@
 <!-- Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=850&lines=sshioo.exe+initialized...;Frontend+Developer+%7C+UI+Craftsman;Building+clean%2C+fast+and+alive+interfaces;Construyendo+experiencias+digitales+desde+Piura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=sshioo.exe+initialized...;Frontend+Developer+%7C+Software+Engineering+Student;Building+clean%2C+fast+and+alive+interfaces;Creating+digital+experiences+from+Piura%2C+Peru" />
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0b/fa/f8/0bfaf8586506a256196213613e8da52e.gif" width="820" alt="Developer workspace animation" />
+  <img src="https://i.pinimg.com/originals/0b/fa/f8/0bfaf8586506a256196213613e8da52e.gif" width="820" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sshioo">
-    <img src="https://img.shields.io/badge/GitHub-sshioo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-sshioo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Frontend-Developer-00F7FF?style=for-the-badge&logo=react&logoColor=111827" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Piura-Peru-f87171?style=for-the-badge" alt="Piura, Peru" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Piura-Peru-f87171?style=for-the-badge" />
 </p>
 
 ---
 
-## system.core
+# ⚙️ system.core
 
 ```bash
 > user: sshioo
-> role: frontend developer & ui craftsman
+> role: frontend developer
 > location: Piura, Peru
-> education: Universidad Privada del Peru - Piura
-> cycle: 7th semester
+> education: Systems & Informatics Engineering
+> semester: 7th
 > mode: learning + building
-> focus: ui/ux · performance · clean code
+> focus: UI/UX · Performance · Full Stack Development
 > status: online
 ```
 
-## About Me · Sobre Mi
+# 🚀 About Me
 
 ```js
 class Developer {
   constructor() {
     this.name = "sshioo";
-    this.role = "Frontend Developer & UI Craftsman";
-    this.location = "Piura, Peru";
-    this.frontend = ["React", "Angular", "Next.js", "Astro", "Vite"];
-    this.backend = ["Node.js", "Python", "Java"];
-    this.databases = ["PostgreSQL", "MongoDB", "SQL Server"];
-    this.learning = ["Haskell", "Prolog"];
-    this.focus = ["UI/UX", "Performance", "Clean Code"];
+
+    this.frontend = [
+      "React",
+      "Angular",
+      "Next.js",
+      "Astro",
+      "TypeScript",
+      "Tailwind CSS"
+    ];
+
+    this.backend = [
+      "Node.js",
+      "Express",
+      "Flask",
+      "FastAPI",
+      "Spring Boot"
+    ];
+
+    this.languages = [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java",
+      "Haskell",
+      "Prolog"
+    ];
+
+    this.databases = [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Firebase"
+    ];
+
+    this.tools = [
+      "Git",
+      "Docker",
+      "Linux",
+      "Figma"
+    ];
   }
 }
 
 export default new Developer();
 ```
 
-**ES:** Soy desarrollador frontend de Piura, Peru. Me gusta construir interfaces limpias, rapidas y bien cuidadas, con atencion al detalle visual, rendimiento y experiencia de usuario.
+Software Engineering student passionate about frontend development, software architecture, clean code, performance optimization and user experience.
 
-**EN:** Frontend developer from Piura, Peru. I build clean, fast and thoughtful interfaces with a strong focus on visual detail, performance and user experience.
+Currently building projects related to artificial intelligence, education, productivity and fitness applications.
 
 ---
 
-## Tech Arsenal
+# 🛠️ Tech Arsenal
 
-### Frontend
+## Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,tailwind,sass&perline=10" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,astro,tailwind,sass&perline=10" />
 </p>
 
-### Backend & Databases
+## Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mongodb,firebase&perline=7" alt="Backend and database skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,spring,postgres,mysql,mongodb,firebase&perline=11" />
 </p>
 
-### Tools & DevOps
+## Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,docker,linux,bash&perline=7" alt="Tools and DevOps" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,haskell&perline=5" />
 </p>
 
-### Currently Learning
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=haskell&perline=1" alt="Haskell" />
-  <br />
-  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog" />
+  <img src="https://img.shields.io/badge/Prolog-Learning-E61B23?style=for-the-badge" />
 </p>
 
-## Skill Snapshot
+## Tools & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-82%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS%20%2F%20Design-78%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS and Design" />
-  <img src="https://img.shields.io/badge/React%20%2F%20Next-75%25-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React and Next" />
-  <img src="https://img.shields.io/badge/Angular-65%25-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/SQL%20%2F%20DB-55%25-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and databases" />
-  <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Prolog-Learning-E61B23?style=flat-square&logo=prolog&logoColor=white" alt="Prolog learning" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,figma,vercel,vscode&perline=8" />
 </p>
 
 ---
 
-## Featured Projects · Proyectos Destacados
+# 📚 Currently Learning
 
-### [examnet](https://github.com/sshioo/examnet)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=haskell,spring,docker&perline=3" />
+</p>
 
-**ES:** Herramienta de monitoreo de red para examenes academicos. Convierte una laptop en un hotspot controlado y detecta en tiempo real si los alumnos usan IA o buscan en internet, con un panel exclusivo para el docente.
+<p align="center">
+  <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge" />
+</p>
 
-**EN:** Real-time network monitor that turns a laptop into a controlled WiFi hotspot, detecting AI usage and internet searches during exams through DNS interception.
+---
+
+# 📌 Featured Projects
+
+## 🎓 HablaBien IA
+
+AI-powered public speaking coach capable of analyzing:
+
+- Voice quality
+- Body language
+- Posture
+- Communication skills
+- Personalized recommendations
+
+### Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square)
+
+---
+
+## 🌐 ExamNet
+
+Educational network monitoring platform that transforms a laptop into a controlled hotspot capable of detecting internet activity during examinations.
+
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS_Interceptor-21262d?style=flat-square)
-![Security](https://img.shields.io/badge/Security-f87171?style=flat-square)
 
-### [HablaBien IA](https://github.com/milenelopezcruz22-rgb/HablaBienAI)
+---
 
-**ES:** Entrenador personal de oratoria con inteligencia artificial. Analiza voz, postura y lenguaje corporal en tiempo real, y entrega feedback personalizado con puntuacion de 0 a 100.
+## 🏋️ FitGO
 
-**EN:** AI-powered public speaking coach. It analyzes voice, posture and body language in real time, delivering personalized feedback with a 0-100 score across key dimensions.
+Fitness management platform for trainers and members featuring attendance control, workout planning and progress tracking.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_API-412991?style=flat-square&logo=openai&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square)
+### Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### [FitGO](https://github.com/AndreRamosSH/Proyecto-FitGO)
-
-**ES:** Aplicacion fitness colaborativa para gestionar rutinas de entrenamiento, seguir el progreso fisico y conectar una comunidad de usuarios.
-
-**EN:** Collaborative fitness app with workout routine management, physical progress tracking and community features.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
 ---
 
-## GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshioo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=7ee787" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshioo&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" width="48%" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sshioo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=7ee787" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshioo&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshioo&theme=tokyonight&hide_border=true&ring=00F7FF&fire=f87171&currStreakLabel=7ee787" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sshioo&theme=tokyonight&hide_border=true&ring=00F7FF&fire=f87171&currStreakLabel=7ee787" />
 </p>
 
 ---
 
-## Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sshioo/sshioo/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/sshioo/sshioo/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
+# 📊 Activity Graph
+
 <p align="center">
-  <strong>"El codigo no es solo logica, es experiencia."</strong>
-  <br />
-  <i>Building pixel by pixel from Piura, Peru.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sshioo&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- Improve Full Stack Development skills
+- Master Spring Boot ecosystem
+- Learn Functional Programming
+- Build AI-powered applications
+- Contribute to Open Source projects
+
+---
+
+<p align="center">
+  <strong>"Code is not only logic, it's also experience."</strong>
+</p>
+
+<p align="center">
+  Building software from Piura 🇵🇪
 </p>
