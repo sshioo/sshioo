@@ -105,7 +105,21 @@ Explore my repositories for more experiments, side projects and learning exercis
 
 ---
 
+### Beyond Code
+
+- **Playing:** Valorant
+- **Favorite stack:** React + FastAPI
+- **Editor:** VSCode
+- **OS:** Windows + WSL
+- **Coffee or tea:** Coffee
+
+---
+
 ### GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sshioo&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+</p>
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats-five-xi-98.vercel.app/api?username=sshioo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
