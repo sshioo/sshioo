@@ -13,7 +13,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sshioo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sshioo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeix-lopez-castillo-96bb09381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashlamenero@gmail.com)
 
 <br/>
@@ -108,12 +108,12 @@ Explore my repositories for more experiments, side projects and learning exercis
 ### GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sshioo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
+<img width="49%" src="https://github-readme-stats-five-xi-98.vercel.app/api?username=sshioo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sshioo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3" />
 </p>
 
 <p align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshioo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
+<img width="35%" src="https://github-readme-stats-five-xi-98.vercel.app/api/top-langs/?username=sshioo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
 </p>
 
 <p align="center">
