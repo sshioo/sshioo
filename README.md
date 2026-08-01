@@ -118,10 +118,6 @@ Explore my repositories for more experiments, side projects and learning exercis
 ### GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy-alpha-murex.vercel.app/?username=sshioo&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</p>
-
-<p align="center">
 <img width="49%" src="https://github-readme-stats-five-xi-98.vercel.app/api?username=sshioo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sshioo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3" />
 </p>
@@ -133,6 +129,7 @@ Explore my repositories for more experiments, side projects and learning exercis
 <p align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshioo&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=1f6feb" />
 </p>
+
 
 ---
 
