@@ -13,7 +13,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sshioo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/sshioo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeix-lopez-castillo-96bb09381/)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashlamenero@gmail.com)
 
 <br/>
