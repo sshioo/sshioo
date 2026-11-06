@@ -30,69 +30,27 @@ It is a Windows desktop app that watches Downloads and analyzes each new file wi
 - **Optional:** VirusTotal hash lookup and an AI analyst that explains findings. It never changes the score.
 - **Distribution:** installer for Windows, plus a source install with `install.bat`.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YARA](https://img.shields.io/badge/-YARA-000000?style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,windows,powershell" />
 
 ---
 
 ## Stack
 
-<p align="center">
-
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,angular,astro,html,css,js" />
 
 **Backend**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,spring,java" />
 
 **Data**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<br/>
-
-**Security and analysis**
-
-![YARA](https://img.shields.io/badge/-YARA-000000?style=flat-square)
-![pefile](https://img.shields.io/badge/-pefile-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
 
 **Tooling**
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</p>
+<img src="https://skillicons.dev/icons?i=windows,powershell,docker,git,linux,figma,postman" />
 
 ---
 
@@ -100,16 +58,16 @@ It is a Windows desktop app that watches Downloads and analyzes each new file wi
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**SENTINEL**](https://github.com/sshioo/sentinel) | Windows file analyzer. Gives a Safe, Review or Danger verdict backed by evidence. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YARA](https://img.shields.io/badge/-YARA-000000?style=flat-square) |
-| [**ExamNet**](https://github.com/sshioo/examnet) | Controlled hotspot that flags ChatGPT, Google and other unauthorized sites during exams, using DNS interception. Live dashboard for teachers. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| [**win-audit-dashboard**](https://github.com/sshioo/win-audit-dashboard) | Dashboard for Windows security audits, driven by PowerShell scripts. | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| [**windows-performance-optimizer**](https://github.com/sshioo/windows-performance-optimizer) | Conservative Windows optimizer with diagnostics, memory trim, safe cleanup and rollback. | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| [**HablaBien**](https://github.com/milenelopezcruz22-rgb/HablaBienAI) | Speech trainer that analyzes voice, posture and body language in real time and returns a 0–100 score. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| [**FitGO**](https://github.com/AndreRamosSH/Proyecto-FitGO) | Collaborative fitness app: routines, progress tracking and community features. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| [**DriveDrop**](https://github.com/sshioo/DriveDrop) | Python utility project. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**TechStore**](https://github.com/sshioo/TechStore) | Web store front end built for a web programming course. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**PatronesDise-o**](https://github.com/sshioo/PatronesDise-o) | Final project applying design patterns in Java. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**HabitTrack**](https://github.com/sshioo/HabitTrack) | Habit tracker built with algorithms and data structures. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**SENTINEL**](https://github.com/sshioo/sentinel) | Windows file analyzer. Gives a Safe, Review or Danger verdict backed by evidence. | <img src="https://skillicons.dev/icons?i=python" /> |
+| [**ExamNet**](https://github.com/sshioo/examnet) | Controlled hotspot that flags ChatGPT, Google and other unauthorized sites during exams, using DNS interception. Live dashboard for teachers. | <img src="https://skillicons.dev/icons?i=python,flask" /> |
+| [**win-audit-dashboard**](https://github.com/sshioo/win-audit-dashboard) | Dashboard for Windows security audits, driven by PowerShell scripts. | <img src="https://skillicons.dev/icons?i=powershell,flask" /> |
+| [**windows-performance-optimizer**](https://github.com/sshioo/windows-performance-optimizer) | Conservative Windows optimizer with diagnostics, memory trim, safe cleanup and rollback. | <img src="https://skillicons.dev/icons?i=powershell" /> |
+| [**HablaBien**](https://github.com/milenelopezcruz22-rgb/HablaBienAI) | Speech trainer that analyzes voice, posture and body language in real time and returns a 0–100 score. | <img src="https://skillicons.dev/icons?i=react,fastapi" /> |
+| [**FitGO**](https://github.com/AndreRamosSH/Proyecto-FitGO) | Collaborative fitness app: routines, progress tracking and community features. | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" /> |
+| [**DriveDrop**](https://github.com/sshioo/DriveDrop) | Python utility project. | <img src="https://skillicons.dev/icons?i=python" /> |
+| [**TechStore**](https://github.com/sshioo/TechStore) | Web store front end built for a web programming course. | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
+| [**PatronesDise-o**](https://github.com/sshioo/PatronesDise-o) | Final project applying design patterns in Java. | <img src="https://skillicons.dev/icons?i=java" /> |
+| [**HabitTrack**](https://github.com/sshioo/HabitTrack) | Habit tracker built with algorithms and data structures. | <img src="https://skillicons.dev/icons?i=java" /> |
 
 All repositories: [github.com/sshioo](https://github.com/sshioo?tab=repositories)
 
