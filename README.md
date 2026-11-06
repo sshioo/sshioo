@@ -88,19 +88,14 @@ Valorant · VS Code · Windows + WSL · Coffee
 
 ---
 
-## GitHub stats
+## Achievements
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-five-xi-98.vercel.app/api?username=sshioo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sshioo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&dates=8b949e&sideNums=e6edf3" />
+<img src="https://github-profile-trophy.vercel.app/?username=sshioo&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <p align="center">
-<img width="35%" src="https://github-readme-stats-five-xi-98.vercel.app/api/top-langs/?username=sshioo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
-</p>
-
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshioo&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=1f6feb" />
+<img width="90%" src="https://raw.githubusercontent.com/sshioo/sshioo/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
