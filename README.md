@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=sshioo&fontSize=56&fontColor=e6edf3&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Fast+interfaces+with+clean+code;Security+tools+and+AI+apps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Security+tooling+for+Windows;Fast+interfaces+and+clean+code" />
 
 <br/>
 
@@ -16,21 +16,35 @@
 
 ## About
 
-I build interfaces where design and performance carry the same weight. I write React and TypeScript on the front end, and FastAPI, Express or Flask on the back end. I finish a systems engineering degree in Piura, Peru.
+I build interfaces where design and performance carry the same weight, and tools that explain their decisions. I write React and TypeScript on the front end and Python, Flask and FastAPI on the back end. I also script Windows with PowerShell. I finish a systems engineering degree in Piura, Peru.
 
-Right now I work on an AI speaking coach and on network security tools.
+---
+
+## Featured project: SENTINEL
+
+[**sentinel**](https://github.com/sshioo/sentinel) answers one question: is it safe to open this file?
+
+It is a Windows desktop app that watches Downloads and analyzes each new file with several local engines. It gives a verdict (**Safe**, **Review** or **Danger**) and the evidence behind it. Each finding has a confidence level, so a weak signal never outweighs a strong one.
+
+- **Engines:** PE analysis (pefile), disassembly (capstone), capability detection (capa), YARA, Authenticode, VBA macros (oletools), PDF inspection (pypdf), and a Python syntax-tree analyzer.
+- **Optional:** VirusTotal hash lookup and an AI analyst that explains findings. It never changes the score.
+- **Distribution:** installer for Windows, plus a source install with `install.bat`.
+
+`Python` · `PyInstaller` · `YARA` · `capstone` · `pefile` · `Windows`
 
 ---
 
 ## Stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind · Angular · Astro
+**Frontend:** React · Next.js · TypeScript · Tailwind · Angular · Astro · HTML · CSS · JavaScript
 
-**Backend:** Node.js · Express · FastAPI · Flask · Spring Boot
+**Backend:** Python · Flask · FastAPI · Node.js · Express · Spring Boot · Java
 
 **Data:** PostgreSQL · MongoDB · MySQL · Firebase
 
-**Tooling:** Docker · Git · Linux · WSL · Figma · Postman
+**Security and analysis:** YARA · pefile · capstone · capa · Authenticode · network security tooling
+
+**Tooling:** Windows · PowerShell · Docker · Git · Linux · WSL · Figma · Postman
 
 ---
 
@@ -38,9 +52,16 @@ Right now I work on an AI speaking coach and on network security tools.
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**ExamNet**](https://github.com/sshioo/examnet) | Turns a laptop into a controlled hotspot that flags ChatGPT, Google or other unauthorized sites during exams, using DNS interception. Live dashboard for teachers. | Python · Flask · DNS |
-| [**HablaBien**](https://github.com/milenelopezcruz22-rgb/HablaBienAI) | Speech trainer that analyzes voice, posture and body language in real time and returns a 0–100 score with feedback. | React · FastAPI · Whisper · MediaPipe |
+| [**SENTINEL**](https://github.com/sshioo/sentinel) | Windows file analyzer. Gives a Safe, Review or Danger verdict backed by evidence. | Python · YARA · pefile · capstone |
+| [**ExamNet**](https://github.com/sshioo/examnet) | Controlled hotspot that flags ChatGPT, Google and other unauthorized sites during exams, using DNS interception. Live dashboard for teachers. | Python · Flask · DNS |
+| [**win-audit-dashboard**](https://github.com/sshioo/win-audit-dashboard) | Dashboard for Windows security audits, driven by PowerShell scripts. | PowerShell · Flask |
+| [**windows-performance-optimizer**](https://github.com/sshioo/windows-performance-optimizer) | Conservative Windows optimizer with diagnostics, memory trim, safe cleanup and rollback. | PowerShell |
+| [**HablaBien**](https://github.com/milenelopezcruz22-rgb/HablaBienAI) | Speech trainer that analyzes voice, posture and body language in real time and returns a 0–100 score. | React · FastAPI · Whisper · MediaPipe |
 | [**FitGO**](https://github.com/AndreRamosSH/Proyecto-FitGO) | Collaborative fitness app: routines, progress tracking and community features. | React · Node.js · MongoDB |
+| [**DriveDrop**](https://github.com/sshioo/DriveDrop) | Python utility project. | Python |
+| [**TechStore**](https://github.com/sshioo/TechStore) | Web store front end built for a web programming course. | HTML · CSS · JavaScript |
+| [**PatronesDise-o**](https://github.com/sshioo/PatronesDise-o) | Final project applying design patterns in Java. | Java |
+| [**HabitTrack**](https://github.com/sshioo/HabitTrack) | Habit tracker built with algorithms and data structures. | Java |
 
 All repositories: [github.com/sshioo](https://github.com/sshioo?tab=repositories)
 
@@ -48,7 +69,7 @@ All repositories: [github.com/sshioo](https://github.com/sshioo?tab=repositories
 
 ## Now
 
-- **Building:** HablaBien improvements and new security projects
+- **Building:** SENTINEL beta and new security tooling
 - **Learning:** Docker, ethical hacking, pentesting, Haskell
 - **Reading:** RFCs, framework internals, security research
 - **Goal:** Finish my degree and start in the industry with solid foundations
